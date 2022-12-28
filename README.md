@@ -313,6 +313,7 @@ All of my accepted answers.
   [[1248](solutions/1248.c)]
   [[1253](solutions/1253.c)]
   [[1255](solutions/1255.c)]
+  [[1586](solutions/1586.cpp)]
   [[1846](solutions/1846.cpp)]
   
 </details>
@@ -391,6 +392,7 @@ All of my accepted answers.
   <summary><b>Graph</b></summary>
   
   [[1100](solutions/1100.cpp)]
+  [[1128](solutions/1128.cpp)]
   [[1148](solutions/1148.cpp)]
   [[1152](solutions/1152.cpp)]
   [[1195](solutions/1195.c)]
