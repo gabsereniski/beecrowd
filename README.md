@@ -239,6 +239,7 @@ All of my accepted answers.
   [[1397](solutions/1397.c)]
   [[1437](solutions/1437.c)]
   [[1467](solutions/1467.c)]
+  [[1486](solutions/1486.cpp)]
   [[1542](solutions/1542.c)]
   [[1546](solutions/1546.c)]
   [[1547](solutions/1547.c)]
