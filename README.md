@@ -1,4 +1,5 @@
-# URI/beecrowd solutions
+# URI/beecrowd solutions :balloon:
+
 All of my accepted answers.
 
 <details>
