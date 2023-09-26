@@ -206,6 +206,7 @@ All of my accepted answers.
   [[2582](solutions/2582.c)]
   [[2630](solutions/2630.cpp)]
   [[2670](solutions/2670.cpp)]
+  [[3250](solutions/3250.cpp)]
 </details>
 
 <details>
@@ -265,6 +266,7 @@ All of my accepted answers.
   [[2339](solutions/2339.cpp)]
   [[2341](solutions/2341.cpp)]
   [[2342](solutions/2342.cpp)]
+  [[2349](solutions/2349.cpp)]
   [[2367](solutions/2367.cpp)]
   [[2378](solutions/2378.cpp)]
   [[2381](solutions/2381.cpp)]
@@ -323,7 +325,8 @@ All of my accepted answers.
   <summary><b>Data Structures and Libraries</b></summary>
   
   [[1022](solutions/1022.c)]
-  [[1023](solutions/1023.c)]
+  [[~~1023~~](solutions/1023.c)]
+  [[1023](solutions/1023v2.cpp)]
   [[1025](solutions/1025.c)]
   [[1068](solutions/1068.c)]
   [[1069](solutions/1069.cpp)]
@@ -390,11 +393,13 @@ All of my accepted answers.
 
 <details>
   <summary><b>Graph</b></summary>
-  
+  [[1081](solutions/1081.cpp)]
+  [[1082](solutions/1082.cpp)]
   [[1100](solutions/1100.cpp)]
   [[1128](solutions/1128.cpp)]
   [[1148](solutions/1148.cpp)]
   [[1152](solutions/1152.cpp)]
+  [[1194](solutions/1194.cpp)]
   [[1195](solutions/1195.c)]
   [[1200](solutions/1200.c)]
   [[1201](solutions/1201.cpp)]
@@ -403,6 +408,7 @@ All of my accepted answers.
   [[1774](solutions/1774.cpp)]
   [[1835](solutions/1835.cpp)]
   [[1907](solutions/1907.cpp)]
+  [[1910](solutions/1910.cpp)]
   [[1923](solutions/1923.cpp)]
   [[1925](solutions/1925.cpp)]
   [[2246](solutions/2246.cpp)]
