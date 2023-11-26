@@ -393,6 +393,7 @@ All of my accepted answers.
 
 <details>
   <summary><b>Graph</b></summary>
+  
   [[1081](solutions/1081.cpp)]
   [[1082](solutions/1082.cpp)]
   [[1100](solutions/1100.cpp)]
