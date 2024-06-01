@@ -1,4 +1,7 @@
 *.txt
 *.out
 *w.cpp
-.*
+.vscode/
+inputs/
+judge.sh
+*.zip

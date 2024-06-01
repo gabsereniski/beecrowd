@@ -1,6 +1,6 @@
 import os
 
-base_dir = "solutions/"
+base_dir = "../../solutions/"
 
 categories = {
     "beginner/": "Beginner",
@@ -24,13 +24,13 @@ with open("README.md", "w") as file:
         solutions = {}
         for solution in os.listdir(base_dir + cat):
             file_path = os.path.join(base_dir + cat, solution)
-            solutions[os.path.splitext(solution)[0]] = f"  [[{os.path.splitext(solution)[0]}]({file_path})]"
-        
+            solutions[os.path.splitext(solution)[0]] = (
+                f"  [[{os.path.splitext(solution)[0]}]({file_path})]"
+            )
+
         solutions = dict(sorted(solutions.items()))
-        
+
         for solution in solutions.values():
             print(solution, file=file)
 
         print("\n</details>\n", file=file)
-
-
