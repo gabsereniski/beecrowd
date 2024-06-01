@@ -210,6 +210,8 @@ All of my accepted answers.
   [[2791](solutions/beginner/2791.cpp)]
   [[2936](solutions/beginner/2936.cpp)]
   [[3046](solutions/beginner/3046.cpp)]
+  [[3047](solutions/beginner/3047.cpp)]
+  [[3053](solutions/beginner/3053.cpp)]
   [[3055](solutions/beginner/3055.cpp)]
   [[3250](solutions/beginner/3250.cpp)]
 
@@ -318,6 +320,13 @@ All of my accepted answers.
   [[2679](solutions/ad-hoc/2679.cpp)]
   [[2682](solutions/ad-hoc/2682.cpp)]
   [[3048](solutions/ad-hoc/3048.cpp)]
+  [[3050](solutions/ad-hoc/3050.cpp)]
+  [[3052](solutions/ad-hoc/3052.cpp)]
+  [[3056](solutions/ad-hoc/3056.cpp)]
+  [[3058](solutions/ad-hoc/3058.cpp)]
+  [[3059](solutions/ad-hoc/3059.cpp)]
+  [[3060](solutions/ad-hoc/3060.cpp)]
+  [[3063](solutions/ad-hoc/3063.cpp)]
 
 </details>
 
@@ -401,6 +410,7 @@ All of my accepted answers.
   [[2516](solutions/math/2516.c)]
   [[2667](solutions/math/2667.cpp)]
   [[2674](solutions/math/2674.cpp)]
+  [[3049](solutions/math/3049.cpp)]
 
 </details>
 
@@ -409,6 +419,7 @@ All of my accepted answers.
 
   [[1029](solutions/paradigms/1029.c)]
   [[1166](solutions/paradigms/1166.cpp)]
+  [[3051](solutions/paradigms/3051.cpp)]
 
 </details>
 
@@ -442,6 +453,7 @@ All of my accepted answers.
   [[2412](solutions/graph/2412.cpp)]
   [[2419](solutions/graph/2419.cpp)]
   [[2440](solutions/graph/2440.cpp)]
+  [[3061](solutions/graph/3061.cpp)]
 
 </details>
 
