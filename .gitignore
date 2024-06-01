@@ -1,4 +1,4 @@
 *.txt
 *.out
-w-*
+*w.cpp
 .*
