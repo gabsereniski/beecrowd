@@ -326,7 +326,6 @@ All of my accepted answers.
   [[3058](solutions/ad-hoc/3058.cpp)]
   [[3059](solutions/ad-hoc/3059.cpp)]
   [[3060](solutions/ad-hoc/3060.cpp)]
-  [[3063](solutions/ad-hoc/3063.cpp)]
 
 </details>
 
