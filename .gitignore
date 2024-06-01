@@ -1,3 +1,4 @@
 *.txt
 *.out
-build-index.py
+w-*
+.*
