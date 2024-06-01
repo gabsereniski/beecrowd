@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: Run Update Script
-        run: python build-index.py
+        run: python .github/workflows/build-index.py
 
       - name: Commit and Push if Changed
         run: |
