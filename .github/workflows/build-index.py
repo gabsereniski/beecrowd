@@ -1,6 +1,6 @@
 import os
 
-base_dir = "../../solutions/"
+base_dir = "solutions/"
 
 categories = {
     "beginner/": "Beginner",
