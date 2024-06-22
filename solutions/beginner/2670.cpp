@@ -1,18 +1,14 @@
-//2670
 #include <bits/stdc++.h>
 using namespace std;
 
 int main()
 {
-	int a, b, c;
-	
-	cin >> a >> b >> c;
-	
-	int m = INT_MAX;
-	
-	if(2*b + 4*c < m) m = 2*b + 4*c;
-	if(2*a + 2*c < m) m = 2*a + 2*c;
-	if(4*a + 2*b < m) m = 4*a + 2*b;
-	
-	printf("%d\n", m);
+    int a, b, c;
+    cin >> a >> b >> c;
+
+    int A = 2 * b + 4 * c;
+    int B = 2 * a + 2 * c;
+    int C = 4 * a + 2 * b;
+
+    cout << min(A, min(B, C)) << endl;
 }

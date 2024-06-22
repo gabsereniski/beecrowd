@@ -3,27 +3,24 @@ using namespace std;
 
 int main()
 {
-      string s;
+    string s;
+    while (getline(cin, s, '\n'))
+    {
+        bool up = true;
+        int len = s.size();
 
-      while(getline(cin, s))
-      {
-            int last = 0;
-            for(int i = 0; i < s.size(); i++)
+        for (int i = 0; i < len; i++)
+        {
+            if (isalpha(s[i]))
             {
-                  if(isalpha(s[i]))
-                  {
-                        if(last == 0)
-                        {
-                              s[i] = toupper(s[i]);
-                              last = 1;
-                        }
-                        else
-                        {
-                              s[i] = tolower(s[i]);
-                              last = 0;
-                        }
-                  }
+                up ? cout << (char)toupper(s[i]) : cout << (char)tolower(s[i]);
+                up = !up;
             }
-            cout << s << endl;
-      }
+
+            else
+                cout << s[i];
+        }
+
+        cout << endl;
+    }
 }
