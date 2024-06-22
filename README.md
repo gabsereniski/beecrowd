@@ -327,6 +327,7 @@ All of my accepted answers.
   [[3059](solutions/ad-hoc/3059.cpp)]
   [[3060](solutions/ad-hoc/3060.cpp)]
   [[3063](solutions/ad-hoc/3063.cpp)]
+  [[3351](solutions/ad-hoc/3351.cpp)]
 
 </details>
 
@@ -418,7 +419,10 @@ All of my accepted answers.
   <summary><b>Paradigms</b></summary>
 
   [[1029](solutions/paradigms/1029.c)]
+  [[1034](solutions/paradigms/1034.cpp)]
   [[1166](solutions/paradigms/1166.cpp)]
+  [[1286](solutions/paradigms/1286.cpp)]
+  [[1310](solutions/paradigms/1310.cpp)]
   [[3051](solutions/paradigms/3051.cpp)]
 
 </details>
