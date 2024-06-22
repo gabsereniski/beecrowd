@@ -377,7 +377,9 @@ All of my accepted answers.
   [[2380](solutions/ds/2380.cpp)]
   [[2531](solutions/ds/2531.cpp)]
   [[2539](solutions/ds/2539.cpp)]
+  [[2560](solutions/ds/2560.cpp)]
   [[2633](solutions/ds/2633.cpp)]
+  [[2655](solutions/ds/2655.cpp)]
   [[2916](solutions/ds/2916.cpp)]
 
 </details>
@@ -457,6 +459,7 @@ All of my accepted answers.
   [[2412](solutions/graph/2412.cpp)]
   [[2419](solutions/graph/2419.cpp)]
   [[2440](solutions/graph/2440.cpp)]
+  [[2666](solutions/graph/2666.cpp)]
   [[3061](solutions/graph/3061.cpp)]
 
 </details>
